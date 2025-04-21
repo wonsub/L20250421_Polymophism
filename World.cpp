@@ -20,7 +20,10 @@ void UWorld::Run()
 	}
 }
 
+
+
 void UWorld::SpawnActor(AActor* SpawnedActor)
 {
+
 	Actors.push_back(SpawnedActor);
 }

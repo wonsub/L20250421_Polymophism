@@ -7,6 +7,7 @@ public:
 	//积己磊
 	AMonster()
 	{
+	
 		//cout << "阁胶磐 积己" << endl;
 	}
 	virtual ~AMonster();

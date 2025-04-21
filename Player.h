@@ -9,5 +9,7 @@ public:
 	virtual void Tick() override;
 
 	virtual void Move();
+
+	virtual void Input();
 };
 

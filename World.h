@@ -15,7 +15,7 @@ public:
 	}
 
 	void Run();
-
+	
 	void SpawnActor(AActor* SpawnedActor);
 
 protected:
